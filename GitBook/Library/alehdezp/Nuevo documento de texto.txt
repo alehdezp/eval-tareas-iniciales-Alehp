@@ -1,0 +1,41 @@
+middleware 
+
+app.use escucha todos los request, se usa para cargar la libreria
+
+middleware static busca por ficheros staticos que coinciden con la ruta que se esta buscando escucha en la carpeta public
+
+
+nº nivelees merge = log2 (n +1)
+nºsub-problemas = 2^j para j = 0, 1, 2, 3,.. log2(n)
+tamaño = n/2^j
+Tiempo de ejecucion, t(n) <= 
+
+
+Tema 1-> 10. hojas de problemas
+
+ -> c -> b -> a -> e -> d -> h -> i -> j -> k-> -> f -> g 
+
+Tema 2 -> 2
+
+insercion recursivo
+
+insercion(A[], n)
+	insercion(A[], n-1);
+	B.insertOrden(A[n]);
+
+Formula general:
+
+
+			O(1)	si n < c	
+T(n) = {	aT(1/b) + D(n) + C(n)
+	
+tamaño problema	a = 1
+tamaño subproblema	1/b = n -1
+constante	c(n) = n
+
+
+T(n) = { T(n-1) + O(n) si n > 1}
+
+T(n) <= n * n <= n^2 = O(n^2)
+
+
